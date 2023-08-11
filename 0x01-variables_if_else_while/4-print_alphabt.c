@@ -4,7 +4,7 @@
  * Return: Always 0 (Succesful)
  */
 
-int main(voit)
+int main(void)
 {
 		char c;
 
