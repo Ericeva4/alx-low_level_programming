@@ -3,7 +3,6 @@
  * main - Entry point
  * Return: Always 0 (Succesful)
  */
-
 int main(void)
 {
 	int ones = '0';
