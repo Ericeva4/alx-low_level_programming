@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print _alphabet_x10 - Make alphabet  x10 time
+ * print_alphabet_x10 - Make alphabet  x10 time
  * Return: void
  */
 
