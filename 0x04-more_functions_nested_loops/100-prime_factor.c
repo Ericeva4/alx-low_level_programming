@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - This func finds and prints largest prime
- * factor of number 612852475143.
- * Return: 0 at all times
+ * main - This fun finds and prints the largest prime
+ *	factor of the number 612852475143.
+ *
+ * Return: 0 all time
  */
 
 int main(void)
@@ -26,5 +27,6 @@ int main(void)
 	}
 
 	printf("%1d\n", prime);
+
 	return (0);
 }
