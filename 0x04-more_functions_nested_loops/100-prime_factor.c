@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - This func finds n prints largst prime factor of number 612852475143.
- * Return: Always return 0.
+ * main - This func finds n prints largest prime factor of number
+ * Return: 0 at all times
  */
 
 int main(void)
