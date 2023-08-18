@@ -1,7 +1,7 @@
 #include <stdio.h>
-
 /**
- * main - prints the numbers from 1-100
+ * main - Peints the number feom 1-100, But for multiples of three print Fizz
+ * For nu6mbers which are multiples of both three and five print FizzBuzz.
  * Return: Always 0.
  */
 int main(void)
