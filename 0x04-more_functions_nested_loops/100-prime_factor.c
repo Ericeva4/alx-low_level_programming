@@ -1,10 +1,9 @@
 #include <stdio.h>
+#include "main.h"
 
 /**
- * main - This fun finds and prints the largest prime
- * factor of the number 612852475143.
- *
- * Return: 0 all time
+ * main - This prints the largest prime factor of the number 612852475143.
+ * Return: Always 0 (successdul)
  */
 
 int main(void)
