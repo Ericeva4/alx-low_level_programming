@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - This func finds and prints largest prime factor of number
+ * main - This func finds and prints largest prime
+ * factor of number 612852475143.
  * Return: 0 at all times
  */
 
