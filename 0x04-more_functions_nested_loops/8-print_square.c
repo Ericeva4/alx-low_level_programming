@@ -3,7 +3,7 @@
 /**
  * print_square - This function prints a square
  * @size: This is the size of the square
- * Discription: Only _putchar and '#'can be used to print square.
+ * Discription: Only _putchar to print, '#' can be used to print square.
  */
 
 void print_square(int size)
