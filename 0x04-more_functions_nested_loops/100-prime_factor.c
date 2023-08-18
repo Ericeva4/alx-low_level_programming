@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - This func finds n prints largest prime factor of number
+ * main - This func finds and prints largest prime factor of number
  * Return: 0 at all times
  */
 
