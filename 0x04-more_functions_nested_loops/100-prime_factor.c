@@ -2,7 +2,7 @@
 
 /**
  * main - This fun finds and prints the largest prime
- *	factor of the number 612852475143.
+ * factor of the number 612852475143.
  *
  * Return: 0 all time
  */
