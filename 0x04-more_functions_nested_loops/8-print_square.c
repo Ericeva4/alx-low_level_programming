@@ -3,7 +3,7 @@
 /**
  * print_square - This function prints a square
  * @size: This is the size of the square
- * Discription: Only _putchar to print, '#' can be used to print square.
+ * Discription: Only use _putchar to print, use '#' can be used to print square.
  */
 
 void print_square(int size)
@@ -13,7 +13,7 @@ void print_square(int size)
 	k = 0;
 
 	if (size < 1)
-		putchar('\n');
+		_putchar('\n');
 
 	while (k < size)
 	{
