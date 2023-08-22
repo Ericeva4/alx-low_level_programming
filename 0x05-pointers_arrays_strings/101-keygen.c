@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <time>
+#include <time.h>
 
 /**
  * main - This is a program that generates random valid passwords
