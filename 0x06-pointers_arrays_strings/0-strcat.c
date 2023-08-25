@@ -1,11 +1,12 @@
 #include "maun.h"
 
 /**
- * _strcat - Concatenates Two Strings
+ * _strcat - concatenates two strings
  * @dest: destination string
  * @src: source string
  * Return: dest:
  */
+
 
 char *_strcat(char *dest, char *src)
 {
